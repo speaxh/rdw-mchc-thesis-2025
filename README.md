@@ -3,13 +3,6 @@
 This repository contains the code used in my MRes thesis analysing the RDW:MCHC ratio
 for early risk stratification in critical care.
 
-## What’s here
-- `all_the_code.ipynb`: end-to-end notebook (outputs cleared).
-- `src/`: modular Python scripts mirroring the notebook.
-- `sql/`: key DuckDB queries for cohort and first-24h extraction.
-- `docs/data_flow.pdf`: 1-page pipeline diagram.
-- `sample_data/`: tiny synthetic examples to illustrate inputs only.
-
 ## Reproducibility
 Due to licence restrictions, **raw MIMIC-IV/eICU data are not included**.
 To reproduce:
